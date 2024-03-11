@@ -3,7 +3,8 @@
 ## Overview:
 This project aims to develop a time series forecasting model for predicting bike rental demand for a bike-sharing company. The goal is to leverage SARIMA (Seasonal AutoRegressive Integrated Moving Average) modeling to capture and forecast the temporal patterns in bike rental instances. The analysis will utilize bike rental data, corresponding hourly weather information, and potentially available Twitter data, to build an accurate predictive model for future demand. Furthermore, data analysis will be conducted to explore customer segments, and business trends, and analyze instances where rentals were never returned.<br>
 <br>
-Initial project pitch: https://www.canva.com/design/DAF9-DTMKvE/NcH5Xf8OVZC1G2t7HWnMpA/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>
+Initial project pitch: https://www.canva.com/design/DAF-i5qrWjc/mosU8sTmgEgU_Danm4U54Q/edit?utm_content=DAF-i5qrWjc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>
+
 
 ## Dataset Description:
 1. <b>Bike Rental Dataset from Ecobici in Mexico City:</b> Contains detailed records of bike rental instances, including user demographics, bike identification, stations for departure and arrival, timestamps for rental and return, and associated variables.
